@@ -1,3 +1,4 @@
+
 # 🎬 CineMatch — AI-Powered Movie Recommendation System
 
 A content-based movie recommendation system that suggests similar movies based on genres, keywords, cast, director, and plot overview. Built with Python, scikit-learn, and Streamlit.
@@ -502,3 +503,4 @@ The app opens automatically at `http://localhost:8501` in your browser.
 ---
 
 *Built with ❤️ using Python, scikit-learn, and Streamlit · Powered by TMDB API*
+
